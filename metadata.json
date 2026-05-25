@@ -1,0 +1,6 @@
+{
+  "name": "Easy Click",
+  "description": "An online earning platform offering investment plans, easy deposits/withdrawals via EasyPaisa and JazzCash, daily ads, simulated blogs, and secure AI-driven chat support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

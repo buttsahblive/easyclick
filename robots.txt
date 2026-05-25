@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+# Sitemap parameter
+Sitemap: https://easyclick-pk.com/sitemap.xml
